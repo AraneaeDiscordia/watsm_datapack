@@ -1,0 +1,14 @@
+{
+	"replace": false,
+	"values": [
+		"realmrpg_demons:demon",
+		"realmrpg_demons:demon_lord",
+		"realmrpg_demons:ancient_demon_lord",
+		"deeperdarker:sculk_centipede",
+		"deeperdarker:sculk_leech",
+		"deeperdarker:sculk_snapper",
+		"deeperdarker:shattered",
+		"deeperdarker:shriek_worm",
+		"deeperdarker:stalker"
+	]
+}

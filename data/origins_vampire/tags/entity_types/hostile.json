@@ -1,0 +1,18 @@
+{
+	"replace": false,
+	"values": [
+		"realmrpg_demons:chort",
+		"realmrpg_demons:imp",
+		"realmrpg_demons:imp_guard",
+		"realmrpg_demons:demon",
+		"realmrpg_demons:demon_lord",
+		"realmrpg_demons:ancient_demon_lord",
+		"deeperdarker:sludge",
+		"deeperdarker:sculk_centipede",
+		"deeperdarker:sculk_leech",
+		"deeperdarker:sculk_snapper",
+		"deeperdarker:shattered",
+		"deeperdarker:shriek_worm",
+		"deeperdarker:stalker"
+	]
+}

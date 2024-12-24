@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"realmrpg_demons:imp",
+		"realmrpg_demons:imp_guard",
+		"realmrpg_demons:demon_minion"
+	]
+}
