@@ -3,6 +3,9 @@
 	"values": [
 		"realmrpg_demons:imp",
 		"realmrpg_demons:imp_guard",
-		"realmrpg_demons:demon_minion"
+		"realmrpg_demons:demon_minion",
+		"deeperdarker:sculk_centipede",
+		"deeperdarker:sculk_leech",
+		"deeperdarker:sculk_snapper"
 	]
 }
