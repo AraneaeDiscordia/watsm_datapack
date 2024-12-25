@@ -1,6 +1,32 @@
 {
 	"replace": false,
 	"values": [
-		"realmrpg_demons:chort"
+		"realmrpg_demons:chort",
+		"alexsmobs:roadrunner",
+		"alexsmobs:gazelle",
+		"alexsmobs:rattlesnake",
+		"alexsmobs:endergrade",
+		"alexsmobs:capuchin_monkey",
+		"alexsmobs:warped_toad",
+		"alexsmobs:raccoon",
+		"alexsmobs:seal",
+		"alexsmobs:shoebill",
+		"alexsmobs:crow",
+		"alexsmobs:alligator_snapping_turtle",
+		"alexsmobs:stradpole",
+		"alexsmobs:platypus",
+		"alexsmobs:tasmanian_devil",
+		"alexsmobs:mimic_octopus",
+		"alexsmobs:seagull",
+		"alexsmobs:cosmaw",
+		"alexsmobs:toucan",
+		"alexsmobs:maned_wolf",
+		"alexsmobs:anaconda",
+		"alexsmobs:anteater",
+		"alexsmobs:gelada_monkey",
+		"alexsmobs:terrapin",
+		"alexsmobs:potoo",
+		"alexsmobs:skunk",
+		"alexsmobs:caiman"
 	]
 }
