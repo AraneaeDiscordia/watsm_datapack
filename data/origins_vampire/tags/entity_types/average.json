@@ -27,6 +27,13 @@
 		"alexsmobs:terrapin",
 		"alexsmobs:potoo",
 		"alexsmobs:skunk",
-		"alexsmobs:caiman"
+		"alexsmobs:caiman",
+		"aether:aerbunny",
+		"aether_redux:blightbunny",
+		"aether:flying_cow",
+		"aether_redux:shimmercow",
+		"deep_aether:quail",
+		"aether:phyg",
+		"aether:sheepuff"
 	]
 }

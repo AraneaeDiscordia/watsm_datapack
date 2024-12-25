@@ -1,6 +1,9 @@
 {
 	"replace": false,
 	"values": [
-		"deeperdarker:sludge"
+		"deeperdarker:sludge",
+		"aether:blue_swet",
+		"aether:golden_swet",
+		"aether_redux:vanilla_swet"
 	]
 }

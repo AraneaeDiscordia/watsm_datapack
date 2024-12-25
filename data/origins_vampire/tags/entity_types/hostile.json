@@ -50,6 +50,9 @@
 		"alexsmobs:mimicube",
 		"alexsmobs:warped_mosco",
 		"alexsmobs:void_worm",
-		"alexsmobs:farseer"
+		"alexsmobs:farseer",
+		"deep_aether:venomite",
+		"aether:cockatrice",
+		"aether_redux:blightbunny"
 	]
 }
