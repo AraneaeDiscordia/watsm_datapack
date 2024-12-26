@@ -1,12 +1,19 @@
 {
 	"replace": false,
 	"values": [
+		"alexsmobs:fly",
+		"alexsmobs:warped_toad",
+		"alexsmobs:cockroach",
+		"alexsmobs:mantis_shrimp",
 		"alexsmobs:centipede_head",
 		"alexsmobs:centipede_body",
 		"alexsmobs:centipede_tail",
+		"alexsmobs:enderiophage",
 		"alexsmobs:tarantula_hawk",
-		"alexsmobs:murmur_head",
-		"alexsmobs:murmur",
+		"alexsmobs:leafcutter_ant",
+		"alexsmobs:flutter",
+		"alexsmobs:rain_frog",
+		"alexsmobs:triops",
 		"deep_aether:venomite"
 	]
 }
